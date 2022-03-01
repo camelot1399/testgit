@@ -3,6 +3,8 @@
         step1
 
         <div>step2</div>
+
+        <div>step3</div>
     </div>
 </template>
 
