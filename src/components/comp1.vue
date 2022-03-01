@@ -1,9 +1,5 @@
 <template>
     <div>нужные данные</div>
-
-    <div>ошибка</div>
-
-    <div>нет ошибки все нормально</div>
 </template>
 
 <script>
