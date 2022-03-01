@@ -1,5 +1,7 @@
 <template>
     <div>нужные данные</div>
+
+    <div>ошибка</div>
 </template>
 
 <script>
