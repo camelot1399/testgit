@@ -1,5 +1,5 @@
 <template>
-
+    <div>нужные данные</div>
 </template>
 
 <script>
