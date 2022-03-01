@@ -8,6 +8,7 @@
     word2
     word3
     word5
+    word6
 </template>
 
 <script>
