@@ -2,6 +2,7 @@
     <div>нужные данные</div>
 
     step1
+    step2
 </template>
 
 <script>
