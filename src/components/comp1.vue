@@ -3,6 +3,8 @@
 
     step1
     step5
+
+    word1
 </template>
 
 <script>
