@@ -5,6 +5,7 @@
     step5
 
     word1
+    word2
 </template>
 
 <script>
