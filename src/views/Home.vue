@@ -5,6 +5,8 @@
         <div>step2</div>
 
         <div>step3</div>
+
+        <div>очень важные данные!!!</div>
     </div>
 </template>
 
