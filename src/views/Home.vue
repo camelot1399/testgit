@@ -7,13 +7,18 @@
         <div>step3</div>
 
         <div>очень важные данные!!!</div>
+
+        <HelloWorld />
     </div>
 </template>
 
 <script>
+import HelloWorld from '@/components/HelloWorld';
 
 export default {
     name: 'Home',
-    components: {}
+    components: {
+        HelloWorld
+    }
 }
 </script>
